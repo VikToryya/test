@@ -1,0 +1,32 @@
+// @mixin box {
+//     width: 200px;
+//     height: 400px;
+//     background-color: green;
+// }
+// $red: #131213;
+// $main-font: sans-serif;
+// .box{
+//     width: 100px - 50px;
+//     height: 200px;
+
+//     background-color: $red;
+//     font-family: $main-font;
+//     h1{
+//         color: red;
+//     }
+// }
+
+// .card {
+// background-color: cadetblue;
+// @include box();
+// &:hover{
+
+// }
+// 		&__item {
+//             color: blue;
+// 		}
+
+// 		&__btn {
+//             color: blueviolet;
+// 		}
+// }
